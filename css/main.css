@@ -1,0 +1,36 @@
+div{
+	outline: red 1px solid;
+}
+.header{
+		background: black;	
+	color: white;
+}
+.header a{
+	color: white;
+}
+.header a:hover{
+	text-decoration: none;
+	color:pink;
+}
+.ene{
+	margin-top: 30px;
+}
+.hero, .porta{
+	color: grey;
+}
+.her{
+	padding-top:50px;
+	padding-bottom: 70px;
+}
+button{
+	padding:5px 10px 5px 10px;
+	border-radius:20px;
+	color: white;
+	background: grey !important;
+}
+.par{
+	padding: 0 18px;
+}
+.aba, .read{
+	padding-top: 60px;
+}
