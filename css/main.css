@@ -18,7 +18,11 @@ div{
 .hero, .porta{
 	color: grey;
 }
+.hero{
+	background: #B9B9B9;
+}
 .her{
+    background: #F3F3F3 !important;
 	padding-top:50px;
 	padding-bottom: 70px;
 }
@@ -33,4 +37,14 @@ button{
 }
 .aba, .read{
 	padding-top: 60px;
+}
+.porta a{
+	color: grey;
+}
+.porta a:hover{
+	color: #cecece;
+	text-decoration: none;
+}
+.porta{
+	padding-bottom: 50px;
 }
